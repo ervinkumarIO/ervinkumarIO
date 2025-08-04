@@ -3,9 +3,8 @@
 <h1 align="center">Hey there, I'm Ervin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!; AI+Engineer+%7C+Machine+Learning+%7C+Builder+%7C+Malware+Hunter;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome%20to%20my%20GitHub%20space!;AI%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Malware%20Hunter;Let's%20build%20something%20amazing%20🚀" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
 A passionate Full-Stack Developer & AI Enthusiast based in <b>Kuala Lumpur, Malaysia</b> <br>
