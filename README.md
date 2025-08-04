@@ -51,10 +51,24 @@ A passionate Full-Stack Developer & AI Enthusiast based in <b>Kuala Lumpur, Mala
 
 ---
 
-### 📈 GitHub Stats
+<details>
+<summary>💡 Click to expand my Skill Badge Wall</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ervinkumarIO&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervinkumarIO&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,nextjs,tailwind,laravel,php,javascript,typescript,html,css,docker,firebase,git,digitalocean" />
 </p>
+
+</details>
+
+---
+
+<details>
+<summary>💡 Did you know?</summary>
+
+- 🔐 I built a lightweight malware detection system using only CPU power and self-supervised learning.
+- 🧠 My drone can track faces and recognize identities in real-time using VGFaceNet.
+- 💬 I’m building a desktop IDE where you can code by voice (think Cursor + Jarvis).
+- 🚀 I’m passionate about creating tools that make tech more accessible & efficient.
+</details>
+
 
