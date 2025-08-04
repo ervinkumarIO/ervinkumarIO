@@ -3,6 +3,11 @@
 <h1 align="center">Hey there, I'm Ervin 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+space!;AI+Engineer+%7C+Full-Stack+Builder+%7C+Malware+Hunter;Let's+build+something+amazing+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
 A passionate Full-Stack Developer & AI Enthusiast based in <b>Kuala Lumpur, Malaysia</b> <br>
 🎓 Currently studying <b>Data Science & Artificial Intelligence</b> at <b>National University of Malaysia (UKM)</b><br>
 🚀 Startup Co-Founder | 📚 Malware & ML Researcher | 🌐 Web & Backend Developer
