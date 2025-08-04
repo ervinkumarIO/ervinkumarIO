@@ -49,7 +49,7 @@ A passionate Full-Stack Developer & AI Enthusiast based in <b>Kuala Lumpur, Mala
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SADMASK69&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SADMASK69&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ervinkumarIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ervinkumarIO&theme=tokyonight" />
 </p>
 
