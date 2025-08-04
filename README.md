@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Ervin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome%20to%20my%20GitHub%20space!;AI%20Engineer%20%7C%20Full-Stack%20Builder%20%7C%20Malware%20Hunter;Let's%20build%20something%20amazing%20🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=Welcome%20to%20my%20GitHub%20space!;Let's%20build%20something%20amazing%20🚀" alt="Typing SVG" />
 </p>
 
 
